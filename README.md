@@ -1,5 +1,5 @@
 # Simple-Vue.js-board
-![스크린샷 2024-01-25 201018](https://github.com/n47turbo/Simple-Vue.js-board/assets/32701658/33fd0ca2-7a01-4d78-88bd-8ce4ac680d0c)
+![스크린샷 2024-01-25 202140.png](..%2F..%2FPictures%2FScreenshots%2F%BD%BA%C5%A9%B8%B0%BC%A6%202024-01-25%20202140.png)
 
 ## Project setup
 * 종속성 설치
