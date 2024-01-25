@@ -2,15 +2,15 @@
 ![스크린샷 2024-01-25 201018](https://github.com/n47turbo/Simple-Vue.js-board/assets/32701658/33fd0ca2-7a01-4d78-88bd-8ce4ac680d0c)
 
 ## Project setup
-종속성 설치
+* 종속성 설치
 ```
 npm install
 ```
-Dev Server 실행
+* Dev Server 실행
 ```
 npm run serve
 ```
-빌드
+* 빌드
 ```
 npm run build
 ```
