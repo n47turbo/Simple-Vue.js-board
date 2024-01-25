@@ -1,4 +1,5 @@
 # Simple-Vue.js-board
+![스크린샷 2024-01-25 201018](https://github.com/n47turbo/Simple-Vue.js-board/assets/32701658/33fd0ca2-7a01-4d78-88bd-8ce4ac680d0c)
 
 ## Project setup
 ```
