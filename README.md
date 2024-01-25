@@ -1,5 +1,5 @@
 # Simple-Vue.js-board
-![스크린샷 2024-01-25 202140](https://github.com/n47turbo/Simple-Vue.js-board/assets/32701658/2b8beb9d-f7bd-4e9d-b9f5-eae9876c15a2)
+<img width="1308" alt="스크린샷 2024-01-26 00 03 45" src="https://github.com/n47turbo/Simple-Vue.js-board/assets/32701658/8e1b59c7-6c63-471f-a296-05b5842785d4">
 
 ## Project setup
 * 종속성 설치
