@@ -4,7 +4,7 @@
   </title>
   <div id="main"><br><br><br><br><br><br><br><br><br>
     <div class="fof">
-      <h1>공지사항</h1>
+      <h1>Welcome!</h1>
     </div>
   </div><hr>
   <v-container class="notosanskr">
