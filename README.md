@@ -1,1 +1,1 @@
-# 햄위키 전용 VUE 보드
+# Simple-Vue.js-board
