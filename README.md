@@ -5,6 +5,7 @@
 ```
 npm install
 npm run serve
+npm run build
 ```
 ## Project Description
 Vue.js를 처음 접해보고,
